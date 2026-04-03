@@ -19,7 +19,6 @@ To use this setup, you should have the following programs installed:
 
 ```bash
 # Essential
-git           # to clone this repository
 hyprland      # Wayland compositor
 waybar        # status bar
 swww          # wallpaper setter
