@@ -1,0 +1,8 @@
+super + Q : terminal
+super + C : close window
+super + E : yazi
+super + V : togglefloating Window
+super + D : rofi
+super + F : fullscreen
+super + W : Change wallpaper
+and to see all the other key bind go check in home/.config/hypr/organized/binds.conf
