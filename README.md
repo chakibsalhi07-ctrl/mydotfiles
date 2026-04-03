@@ -27,7 +27,7 @@ bash          # for scripts
 fastfetch     # for larping XD
 yazi          # file explorer
 
-# Optional / scripts dependencies
-cava          # audio visualizer for Waybar
-xwayland      # if you need X11 support for some apps
-fish          # if you use Fish shell
+
+cava          
+xwayland      
+fish          
