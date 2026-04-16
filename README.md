@@ -21,7 +21,7 @@ To use this setup, you should have the following programs installed:
 # Essential
 hyprland      # Wayland compositor
 waybar        # status bar
-swww          # wallpaper setter
+awww          # wallpaper setter
 feh           # optional fallback wallpaper setter
 bash          # for scripts
 fastfetch     # for larping XD
